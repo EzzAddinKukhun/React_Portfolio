@@ -15,9 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Reactt
-        </a>
-      </header>
+         HOW TO LEARN REACT 
+         </a>
+       </header>
     </div>
   );
 }
