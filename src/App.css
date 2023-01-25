@@ -85,6 +85,11 @@ header {
     position: relative;
 }
 
+#home > div {
+  display: flex;
+  height:100vh
+}
+
 .intro-details{
     height: 100%; 
     width: 60%;
@@ -105,6 +110,7 @@ header {
     border-radius: 50%;
     border: 10px solid gray;
     animation: fadeInRight 1s; 
+    background-size: cover;
 }
 
 
@@ -119,6 +125,12 @@ header {
     justify-content: center;
     flex-direction: column;
 
+}
+
+.details > div { 
+  display: flex;
+ margin-top: 20px;
+                    
 }
 
 .social-media-header{
