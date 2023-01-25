@@ -4,6 +4,7 @@ import Navbar from './Components/Navbar';
 import Header from './Components/Header';
 import About from './Components/About';
 import Services from './Components/Services';
+import History from './Components/History';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Header />
       <About />
       <Services/>
+      <History/>
     </>
   );
 }
