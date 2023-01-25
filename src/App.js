@@ -5,6 +5,7 @@ import Header from './Components/Header';
 import About from './Components/About';
 import Services from './Components/Services';
 import History from './Components/History';
+import ContactUs from './Components/ContactUs';
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
       <Navbar />
       <Header />
       <About />
-      <Services/>
-      <History/>
+      <Services />
+      <History />
+      <ContactUs />
     </>
   );
 }

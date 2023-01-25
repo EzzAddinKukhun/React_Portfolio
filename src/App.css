@@ -127,6 +127,10 @@ header {
 
 }
 
+.contactUsTitle{
+  font-size: 50px; text-align: center; color: white; padding-top: 80px;
+}
+
 .details > div { 
   display: flex;
  margin-top: 20px;
@@ -491,7 +495,7 @@ color: white;
 .contact {
   height: 84vh;
   background-color: rgb(57, 56, 56);
-  /* background-image: url(../imgs/map-image.png); */
+  background-image: url(./imgs/map-image.png);
 }
 
 
